@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-app-task/static/css/main.8b5fd468.css",
+    "main.js": "/React-app-task/static/js/main.7fc94920.js",
+    "static/media/pabloContrerasLogo.png": "/React-app-task/static/media/pabloContrerasLogo.2c32fe744fdd7f13b849.png",
+    "index.html": "/React-app-task/index.html",
+    "main.8b5fd468.css.map": "/React-app-task/static/css/main.8b5fd468.css.map",
+    "main.7fc94920.js.map": "/React-app-task/static/js/main.7fc94920.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b5fd468.css",
+    "static/js/main.7fc94920.js"
+  ]
+}
